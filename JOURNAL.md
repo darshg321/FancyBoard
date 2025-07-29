@@ -68,3 +68,9 @@ added all the components, need to complete wiring
 finished most of everything, need to add some pull up resistors and capacitors and stuff
 
 +3 hours
+
+![7](assets/image7.png)
+
+done with schematic, pull ups and capacitors
+
+need to make footprints and assignments, so first have to find what keys and keycaps i will use
