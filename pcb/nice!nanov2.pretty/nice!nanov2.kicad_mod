@@ -310,9 +310,9 @@
 		(uuid "245d9a69-fdfc-492a-aac2-4adae873f3b4")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/nice!nanov2.pretty/nice!nano v2.step"
+	(model "${KIPRJMOD}/nice!nano v2.step"
 		(offset
-			(xyz 0.11 1.145 0)
+			(xyz 0.1 1.14 0)
 		)
 		(scale
 			(xyz 1 1 1)

@@ -1,0 +1,3 @@
+# FancyBoard
+
+A custom hot-swappable mechanical keyboard inspired by the k.no.b.1 from Work Louder. Designed to be minimalist but still feature packed, it has a 75% layout, with right hand keys replaced by an IPS display and 2 dials. It uses low-profile Choc V1 switches, and low-profile keycaps to go along with them. It uses the nice!nano V2 microcontroller, and can be connected to via USB-C and Bluetooth.

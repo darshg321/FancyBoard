@@ -61,7 +61,7 @@
 					(type background)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -17.78 15.24 0)
 				(length 2.54)
 				(name "GND"
@@ -79,7 +79,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -17.78 12.7 0)
 				(length 2.54)
 				(name "IO1"
@@ -97,7 +97,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -17.78 10.16 0)
 				(length 2.54)
 				(name "IO0"
@@ -115,7 +115,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -17.78 7.62 0)
 				(length 2.54)
 				(name "GND"
@@ -133,7 +133,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -17.78 5.08 0)
 				(length 2.54)
 				(name "GND"
@@ -151,7 +151,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -17.78 2.54 0)
 				(length 2.54)
 				(name "IO2"
@@ -169,7 +169,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -17.78 0 0)
 				(length 2.54)
 				(name "IO3"
@@ -187,7 +187,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -17.78 -2.54 0)
 				(length 2.54)
 				(name "IO4"
@@ -205,7 +205,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -17.78 -5.08 0)
 				(length 2.54)
 				(name "IO5"
@@ -223,7 +223,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -17.78 -7.62 0)
 				(length 2.54)
 				(name "IO6"
@@ -241,7 +241,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -17.78 -10.16 0)
 				(length 2.54)
 				(name "IO7"
@@ -259,7 +259,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -17.78 -12.7 0)
 				(length 2.54)
 				(name "IO8"
@@ -277,7 +277,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -17.78 -15.24 0)
 				(length 2.54)
 				(name "IO9"
@@ -349,10 +349,10 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 15.24 180)
 				(length 2.54)
-				(name "+BATT"
+				(name "BATT+"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -367,7 +367,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 12.7 180)
 				(length 2.54)
 				(name "BATT+"
@@ -385,7 +385,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 10.16 180)
 				(length 2.54)
 				(name "GND"
@@ -403,7 +403,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 7.62 180)
 				(length 2.54)
 				(name "RESET"
@@ -421,7 +421,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_out line
 				(at 16.51 5.08 180)
 				(length 2.54)
 				(name "3.3V"
@@ -439,7 +439,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 2.54 180)
 				(length 2.54)
 				(name "IO21"
@@ -457,7 +457,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 0 180)
 				(length 2.54)
 				(name "IO20"
@@ -475,7 +475,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -2.54 180)
 				(length 2.54)
 				(name "IO19"
@@ -493,7 +493,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -5.08 180)
 				(length 2.54)
 				(name "IO18"
@@ -511,7 +511,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -7.62 180)
 				(length 2.54)
 				(name "IO15"
@@ -529,7 +529,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -10.16 180)
 				(length 2.54)
 				(name "IO14"
@@ -547,7 +547,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -12.7 180)
 				(length 2.54)
 				(name "IO16"
@@ -565,7 +565,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -15.24 180)
 				(length 2.54)
 				(name "IO10"
