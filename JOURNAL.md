@@ -113,3 +113,6 @@ finshed layout fully, routing time
 ![13](assets/image13.png)
 
 almost finished routing, need to route rows/columns and other components
+
+finished routing rows and columns
+![14](assets/image14.png)
