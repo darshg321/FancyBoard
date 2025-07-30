@@ -2440,7 +2440,7 @@
 							)
 						)
 					)
-					(number "33"
+					(number "29"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2458,7 +2458,7 @@
 							)
 						)
 					)
-					(number "32"
+					(number "28"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2476,7 +2476,7 @@
 							)
 						)
 					)
-					(number "31"
+					(number "27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2487,14 +2487,14 @@
 				(pin input line
 					(at 16.51 15.24 180)
 					(length 2.54)
-					(name "BATT+"
+					(name "+BATT"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "30"
+					(number "26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2512,7 +2512,7 @@
 							)
 						)
 					)
-					(number "29"
+					(number "25"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2530,7 +2530,7 @@
 							)
 						)
 					)
-					(number "28"
+					(number "24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2548,7 +2548,7 @@
 							)
 						)
 					)
-					(number "27"
+					(number "23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2566,7 +2566,7 @@
 							)
 						)
 					)
-					(number "26"
+					(number "22"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2584,7 +2584,7 @@
 							)
 						)
 					)
-					(number "25"
+					(number "21"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2602,7 +2602,7 @@
 							)
 						)
 					)
-					(number "24"
+					(number "20"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2620,7 +2620,7 @@
 							)
 						)
 					)
-					(number "23"
+					(number "19"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2638,7 +2638,7 @@
 							)
 						)
 					)
-					(number "22"
+					(number "18"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2649,14 +2649,14 @@
 				(pin input line
 					(at 16.51 -7.62 180)
 					(length 2.54)
-					(name "IO16"
+					(name "IO15"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "20"
+					(number "17"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2667,14 +2667,14 @@
 				(pin input line
 					(at 16.51 -10.16 180)
 					(length 2.54)
-					(name "IO15"
+					(name "IO14"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "19"
+					(number "16"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2685,14 +2685,14 @@
 				(pin input line
 					(at 16.51 -12.7 180)
 					(length 2.54)
-					(name "IO14"
+					(name "IO16"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "18"
+					(number "15"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3171,12 +3171,6 @@
 		(uuid "4b86360d-1848-4e19-bfeb-4a33923658e8")
 	)
 	(junction
-		(at 163.83 207.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4cc77370-ae79-4872-a5f7-143d80fa9435")
-	)
-	(junction
 		(at 281.94 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3315,6 +3309,12 @@
 		(uuid "71c481bc-9c7c-4e74-a71c-094cc86358b6")
 	)
 	(junction
+		(at 113.03 281.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72243c02-58a6-4c28-8711-fc2fdd1aee38")
+	)
+	(junction
 		(at 58.42 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3361,12 +3361,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8241012f-92ed-4102-bbfd-e92c740db65e")
-	)
-	(junction
-		(at 119.38 248.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "85cda199-d685-4e3f-b0fd-434ed24a4de8")
 	)
 	(junction
 		(at 22.86 227.33)
@@ -3435,16 +3429,22 @@
 		(uuid "974964c3-4223-4dc2-af06-ab7aa5586a91")
 	)
 	(junction
-		(at 157.48 261.62)
+		(at 227.33 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "982ad496-8175-4520-819d-d66092739ad3")
+		(uuid "98f26c09-f410-4688-997f-d1e1e70652ba")
 	)
 	(junction
 		(at 91.44 281.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "998af045-0399-4253-8a82-10f0b9add138")
+	)
+	(junction
+		(at 218.44 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9aee0088-23e4-4613-ab9b-683e2db58abe")
 	)
 	(junction
 		(at 64.77 248.92)
@@ -3459,6 +3459,12 @@
 		(uuid "9b68e4c6-821c-4e3e-a3bb-d5bb3dc3f86a")
 	)
 	(junction
+		(at 119.38 248.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9bee65be-843a-4ea7-bea3-567b98618a1c")
+	)
+	(junction
 		(at 33.02 227.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3469,12 +3475,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9cdc43fe-7320-4576-92e7-7c225d2ca583")
-	)
-	(junction
-		(at 113.03 281.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a03f38ad-4f39-490e-b2dd-e4054f1018ad")
 	)
 	(junction
 		(at 48.26 281.94)
@@ -3765,12 +3765,12 @@
 		(uuid "ff0b8a92-2f54-4670-8303-5c47fd680095")
 	)
 	(no_connect
-		(at 262.89 22.86)
-		(uuid "1a28fdee-3ea3-4148-924b-541bd1d40272")
+		(at 252.73 48.26)
+		(uuid "0426a48b-2eaf-4707-924b-41d99c339ec2")
 	)
 	(no_connect
-		(at 228.6 33.02)
-		(uuid "1d08d295-e8d5-43aa-b432-806b1c7579a0")
+		(at 262.89 22.86)
+		(uuid "1a28fdee-3ea3-4148-924b-541bd1d40272")
 	)
 	(no_connect
 		(at 215.9 203.2)
@@ -3783,6 +3783,10 @@
 	(no_connect
 		(at 215.9 198.12)
 		(uuid "5b3bd8af-7ae6-4a19-8e82-8b603a16f372")
+	)
+	(no_connect
+		(at 247.65 48.26)
+		(uuid "62758ca2-5eed-4483-941d-088ced946b42")
 	)
 	(no_connect
 		(at 215.9 193.04)
@@ -3799,10 +3803,6 @@
 	(no_connect
 		(at 215.9 190.5)
 		(uuid "8c819a03-8f9e-4b4e-9511-6b8ef430b319")
-	)
-	(no_connect
-		(at 228.6 22.86)
-		(uuid "9c6b469a-bcfa-48fc-b9bb-ce512b90b9a6")
 	)
 	(no_connect
 		(at 215.9 208.28)
@@ -3827,6 +3827,10 @@
 	(no_connect
 		(at 215.9 205.74)
 		(uuid "de1a1a0b-9f91-4f40-801b-2d5dd40595e4")
+	)
+	(no_connect
+		(at 250.19 48.26)
+		(uuid "e35b040f-ac9f-4fed-94d8-b2670dea12db")
 	)
 	(no_connect
 		(at 294.64 208.28)
@@ -4074,6 +4078,16 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 281.94) (xy 124.46 281.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1469af9a-a8f4-40c1-a276-470b4efbd924")
+	)
+	(wire
+		(pts
 			(xy 119.38 227.33) (xy 119.38 248.92)
 		)
 		(stroke
@@ -4214,16 +4228,6 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 207.01) (xy 163.83 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2172337e-df0b-42da-9fcf-5fac5996be63")
-	)
-	(wire
-		(pts
 			(xy 332.74 228.6) (xy 330.2 228.6)
 		)
 		(stroke
@@ -4354,16 +4358,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 281.94) (xy 124.46 281.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2af9d734-d6ca-4ab4-a49a-1c2f00882a46")
-	)
-	(wire
-		(pts
 			(xy 22.86 162.56) (xy 22.86 186.69)
 		)
 		(stroke
@@ -4431,6 +4425,16 @@
 			(type default)
 		)
 		(uuid "321bc468-4bee-4bb3-b901-70ba92273e69")
+	)
+	(wire
+		(pts
+			(xy 227.33 33.02) (xy 227.33 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3255e005-a6bc-4d7b-8f46-ce7c9f1df826")
 	)
 	(wire
 		(pts
@@ -4541,6 +4545,16 @@
 			(type default)
 		)
 		(uuid "3b5ce4cb-ffbf-41f0-983b-e7f0d7340751")
+	)
+	(wire
+		(pts
+			(xy 218.44 22.86) (xy 218.44 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c9bc438-2bf1-43d3-b9a9-9f47554fc762")
 	)
 	(wire
 		(pts
@@ -5084,6 +5098,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 22.86) (xy 218.44 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72a88c56-9503-4c32-84e5-9ab821a1ceaf")
+	)
+	(wire
+		(pts
 			(xy 293.37 220.98) (xy 294.64 220.98)
 		)
 		(stroke
@@ -5114,7 +5138,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 30.48) (xy 218.44 30.48)
+			(xy 228.6 30.48) (xy 227.33 30.48)
 		)
 		(stroke
 			(width 0)
@@ -5241,6 +5265,16 @@
 			(type default)
 		)
 		(uuid "829f153f-527e-4d17-beac-cd658ea780d4")
+	)
+	(wire
+		(pts
+			(xy 119.38 248.92) (xy 119.38 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "830de743-d798-4f43-ac05-0018a0facfd8")
 	)
 	(wire
 		(pts
@@ -5434,16 +5468,6 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 261.62) (xy 168.91 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98a1727e-0249-4c73-ba82-599fb45d6182")
-	)
-	(wire
-		(pts
 			(xy 328.93 34.29) (xy 330.2 34.29)
 		)
 		(stroke
@@ -5564,6 +5588,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 33.02) (xy 227.33 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4141cba-72f7-4a59-8f12-c41d177601d7")
+	)
+	(wire
+		(pts
 			(xy 313.69 36.83) (xy 294.64 36.83)
 		)
 		(stroke
@@ -5621,16 +5655,6 @@
 			(type default)
 		)
 		(uuid "a81dbfa3-3c67-4b13-b455-a6f66a5bab08")
-	)
-	(wire
-		(pts
-			(xy 119.38 248.92) (xy 119.38 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a99fba2a-48d1-43a4-ab62-27877ea99b61")
 	)
 	(wire
 		(pts
@@ -5811,6 +5835,16 @@
 			(type default)
 		)
 		(uuid "b7ff821c-396e-4f0f-9414-ba5245faaa68")
+	)
+	(wire
+		(pts
+			(xy 227.33 30.48) (xy 218.44 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b836845a-df50-4b4f-8faa-a30155db95da")
 	)
 	(wire
 		(pts
@@ -6702,7 +6736,7 @@
 			)
 		)
 	)
-	(global_label "IO15"
+	(global_label "IO14"
 		(shape input)
 		(at 264.16 48.26 0)
 		(fields_autoplaced yes)
@@ -6724,7 +6758,7 @@
 			)
 		)
 	)
-	(global_label "IO15"
+	(global_label "IO14"
 		(shape input)
 		(at 298.45 67.31 180)
 		(fields_autoplaced yes)
@@ -6746,7 +6780,7 @@
 			)
 		)
 	)
-	(global_label "IO16"
+	(global_label "IO15"
 		(shape input)
 		(at 312.42 105.41 90)
 		(fields_autoplaced yes)
@@ -7210,7 +7244,7 @@
 	)
 	(global_label "ROW5"
 		(shape input)
-		(at 168.91 261.62 0)
+		(at 157.48 261.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7220,7 +7254,7 @@
 		)
 		(uuid "5bb38d12-91c6-4f4c-8794-2ae636b26cf4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.1566 261.62 0)
+			(at 165.7266 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7406,7 +7440,7 @@
 			)
 		)
 	)
-	(global_label "IO14"
+	(global_label "IO16"
 		(shape input)
 		(at 330.2 34.29 0)
 		(fields_autoplaced yes)
@@ -7428,7 +7462,7 @@
 			)
 		)
 	)
-	(global_label "IO16"
+	(global_label "IO15"
 		(shape input)
 		(at 264.16 45.72 0)
 		(fields_autoplaced yes)
@@ -8132,7 +8166,7 @@
 			)
 		)
 	)
-	(global_label "IO14"
+	(global_label "IO16"
 		(shape input)
 		(at 264.16 50.8 0)
 		(fields_autoplaced yes)
@@ -8555,7 +8589,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00a0bbb0-e5e4-46b9-9873-9f9acfe1f691")
-		(property "Reference" "SW73"
+		(property "Reference" "SW59"
 			(at 55.88 243.84 0)
 			(effects
 				(font
@@ -8572,7 +8606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 55.88 251.46 0)
 			(effects
 				(font
@@ -8608,7 +8642,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW73")
+					(reference "SW59")
 					(unit 1)
 				)
 			)
@@ -8624,7 +8658,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "036faa92-4f1d-466b-b5d2-a6ae537f19bc")
-		(property "Reference" "SW86"
+		(property "Reference" "SW71"
 			(at 45.72 264.16 0)
 			(effects
 				(font
@@ -8641,7 +8675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U"
 			(at 45.72 271.78 0)
 			(effects
 				(font
@@ -8677,7 +8711,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW86")
+					(reference "SW71")
 					(unit 1)
 				)
 			)
@@ -8797,7 +8831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 88.9 165.1 0)
 			(effects
 				(font
@@ -8866,7 +8900,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 35.56 229.87 0)
 			(effects
 				(font
@@ -8984,7 +9018,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05f8074e-5cae-4483-bdf2-0ef8a944bd97")
-		(property "Reference" "SW70"
+		(property "Reference" "SW56"
 			(at 25.4 243.84 0)
 			(effects
 				(font
@@ -9001,7 +9035,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2.25U"
 			(at 25.4 251.46 0)
 			(effects
 				(font
@@ -9037,7 +9071,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW70")
+					(reference "SW56")
 					(unit 1)
 				)
 			)
@@ -9219,6 +9253,75 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
+		(at 121.92 271.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "078d58fa-525d-4fce-bed1-ca31825d3fd3")
+		(property "Reference" "SW78"
+			(at 121.92 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_45deg"
+			(at 121.92 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
+			(at 121.92 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 121.92 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6e23f88f-9a2f-45bf-8a49-33f885ea06af")
+		)
+		(pin "2"
+			(uuid "94a26f78-0e8c-43fc-b725-4ce7c3c10249")
+		)
+		(instances
+			(project "FancyBoard"
+				(path "/5df634be-7204-4854-853b-7c7d64057627"
+					(reference "SW78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
 		(at 35.56 271.78 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9227,7 +9330,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07b9ba05-9151-4e91-8cdc-7b98e3db3dab")
-		(property "Reference" "SW85"
+		(property "Reference" "SW70"
 			(at 35.56 264.16 0)
 			(effects
 				(font
@@ -9244,7 +9347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U"
 			(at 35.56 271.78 0)
 			(effects
 				(font
@@ -9280,7 +9383,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW85")
+					(reference "SW70")
 					(unit 1)
 				)
 			)
@@ -9379,7 +9482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 88.9 229.87 0)
 			(effects
 				(font
@@ -9450,7 +9553,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 291.1348 120.65 0)
 			(effects
 				(font
@@ -9519,7 +9622,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 261.112 189.23 90)
 			(effects
 				(font
@@ -9588,7 +9691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 55.88 165.1 0)
 			(effects
 				(font
@@ -9918,7 +10021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 35.56 209.55 0)
 			(effects
 				(font
@@ -10161,7 +10264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 154.94 189.23 0)
 			(effects
 				(font
@@ -10387,7 +10490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24b93c25-9b90-462c-8747-cac0936dac4a")
-		(property "Reference" "SW75"
+		(property "Reference" "SW61"
 			(at 78.74 243.84 0)
 			(effects
 				(font
@@ -10404,7 +10507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 78.74 251.46 0)
 			(effects
 				(font
@@ -10440,7 +10543,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW75")
+					(reference "SW61")
 					(unit 1)
 				)
 			)
@@ -10456,7 +10559,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24c46614-97a4-45af-a10d-8af709514eb4")
-		(property "Reference" "SW71"
+		(property "Reference" "SW57"
 			(at 35.56 243.84 0)
 			(effects
 				(font
@@ -10473,7 +10576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 35.56 251.46 0)
 			(effects
 				(font
@@ -10509,7 +10612,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW71")
+					(reference "SW57")
 					(unit 1)
 				)
 			)
@@ -10542,7 +10645,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 308.102 63.5 90)
 			(effects
 				(font
@@ -10611,7 +10714,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 297.942 30.48 90)
 			(effects
 				(font
@@ -10680,7 +10783,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 143.51 189.23 0)
 			(effects
 				(font
@@ -10749,7 +10852,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2.25U"
 			(at 154.94 229.87 0)
 			(effects
 				(font
@@ -10818,7 +10921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 143.51 209.55 0)
 			(effects
 				(font
@@ -10887,7 +10990,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ST7789_Module:ST7789_Module"
 			(at 311.15 137.16 0)
 			(effects
 				(font
@@ -11061,7 +11164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 110.49 165.1 0)
 			(effects
 				(font
@@ -11282,7 +11385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 67.31 165.1 0)
 			(effects
 				(font
@@ -11351,7 +11454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 154.94 165.1 0)
 			(effects
 				(font
@@ -11573,7 +11676,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 250.952 186.69 90)
 			(effects
 				(font
@@ -11729,7 +11832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 67.31 229.87 0)
 			(effects
 				(font
@@ -11885,7 +11988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.75U"
 			(at 25.4 229.87 0)
 			(effects
 				(font
@@ -11954,7 +12057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 99.06 209.55 0)
 			(effects
 				(font
@@ -12109,7 +12212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 35.56 165.1 0)
 			(effects
 				(font
@@ -12178,7 +12281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 121.92 189.23 0)
 			(effects
 				(font
@@ -12230,7 +12333,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ee124ff-4036-4643-827d-ca06bcd9e8f6")
-		(property "Reference" "SW81"
+		(property "Reference" "SW67"
 			(at 143.51 243.84 0)
 			(effects
 				(font
@@ -12247,7 +12350,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.75U"
 			(at 143.51 251.46 0)
 			(effects
 				(font
@@ -12283,7 +12386,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW81")
+					(reference "SW67")
 					(unit 1)
 				)
 			)
@@ -12299,7 +12402,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41ef36e5-4669-461c-b20c-fdc1d9b4f260")
-		(property "Reference" "SW72"
+		(property "Reference" "SW58"
 			(at 45.72 243.84 0)
 			(effects
 				(font
@@ -12316,7 +12419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 45.72 251.46 0)
 			(effects
 				(font
@@ -12352,7 +12455,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW72")
+					(reference "SW58")
 					(unit 1)
 				)
 			)
@@ -12646,7 +12749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 88.9 209.55 0)
 			(effects
 				(font
@@ -12803,7 +12906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 238.4552 177.8 0)
 			(effects
 				(font
@@ -12872,7 +12975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 313.182 115.57 90)
 			(effects
 				(font
@@ -13153,75 +13256,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 121.92 271.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4ef42777-ad8f-4f7f-a6e8-64de37b5cd9e")
-		(property "Reference" "SW93"
-			(at 121.92 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 121.92 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 121.92 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 121.92 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 121.92 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9de3c0d1-a541-4fb9-ae2e-550eecf9d368")
-		)
-		(pin "2"
-			(uuid "df52ea3b-61f4-44d4-97b7-56c8f26d8472")
-		)
-		(instances
-			(project "FancyBoard"
-				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW93")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
 		(at 78.74 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13247,7 +13281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 78.74 229.87 0)
 			(effects
 				(font
@@ -13469,7 +13503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 35.56 189.23 0)
 			(effects
 				(font
@@ -13588,7 +13622,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5880bb78-c19a-4e32-9d02-f002102884bf")
-		(property "Reference" "SW89"
+		(property "Reference" "SW74"
 			(at 78.74 264.16 0)
 			(effects
 				(font
@@ -13605,7 +13639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 78.74 271.78 0)
 			(effects
 				(font
@@ -13641,7 +13675,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW89")
+					(reference "SW74")
 					(unit 1)
 				)
 			)
@@ -13674,7 +13708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.5U"
 			(at 166.37 209.55 0)
 			(effects
 				(font
@@ -13813,7 +13847,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ea6d01e-460d-4366-bc8a-1f27185137da")
-		(property "Reference" "SW56"
+		(property "Reference" "SW93"
 			(at 321.31 26.67 0)
 			(effects
 				(font
@@ -13829,7 +13863,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 317.5 32.766 0)
 			(effects
 				(font
@@ -13874,7 +13908,7 @@
 		(instances
 			(project ""
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW56")
+					(reference "SW93")
 					(unit 1)
 				)
 			)
@@ -13907,7 +13941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 99.06 229.87 0)
 			(effects
 				(font
@@ -13976,7 +14010,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 341.122 189.23 90)
 			(effects
 				(font
@@ -14286,7 +14320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 143.51 165.1 0)
 			(effects
 				(font
@@ -14469,7 +14503,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "686e76dc-0dc0-4c24-9ae5-0f5d9efc2c9a")
-		(property "Reference" "SW58"
+		(property "Reference" "SW95"
 			(at 193.04 39.3699 90)
 			(effects
 				(font
@@ -14487,7 +14521,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SS-12D00:SS12-D00"
 			(at 187.96 40.64 0)
 			(effects
 				(font
@@ -14526,7 +14560,7 @@
 		(instances
 			(project ""
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW58")
+					(reference "SW95")
 					(unit 1)
 				)
 			)
@@ -14646,7 +14680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 67.31 209.55 0)
 			(effects
 				(font
@@ -14713,6 +14747,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -14803,7 +14838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 173.482 30.48 90)
 			(effects
 				(font
@@ -15133,7 +15168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 55.88 209.55 0)
 			(effects
 				(font
@@ -15268,7 +15303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 132.08 229.87 0)
 			(effects
 				(font
@@ -15581,7 +15616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77898ced-b3c8-4c00-aab1-713a4c91201b")
-		(property "Reference" "SW88"
+		(property "Reference" "SW73"
 			(at 67.31 264.16 0)
 			(effects
 				(font
@@ -15598,7 +15633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 67.31 271.78 0)
 			(effects
 				(font
@@ -15634,7 +15669,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW88")
+					(reference "SW73")
 					(unit 1)
 				)
 			)
@@ -16192,7 +16227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 78.74 209.55 0)
 			(effects
 				(font
@@ -16261,7 +16296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 78.74 189.23 0)
 			(effects
 				(font
@@ -16417,7 +16452,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 			(at 269.24 25.4 0)
 			(effects
 				(font
@@ -16551,7 +16586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 110.49 229.87 0)
 			(effects
 				(font
@@ -16620,7 +16655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 121.92 209.55 0)
 			(effects
 				(font
@@ -16745,6 +16780,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "1N4148W"
@@ -16754,6 +16790,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -16843,7 +16880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 154.94 209.55 0)
 			(effects
 				(font
@@ -16960,7 +16997,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8cfcb53e-eb73-4cbc-8f07-54497281af8b")
-		(property "Reference" "SW90"
+		(property "Reference" "SW75"
 			(at 88.9 264.16 0)
 			(effects
 				(font
@@ -16977,7 +17014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 88.9 271.78 0)
 			(effects
 				(font
@@ -17013,7 +17050,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW90")
+					(reference "SW75")
 					(unit 1)
 				)
 			)
@@ -17046,7 +17083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 99.06 189.23 0)
 			(effects
 				(font
@@ -17461,94 +17498,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148W")
-		(at 168.91 257.81 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9340454b-c775-456a-873e-426ecb2c0ac9")
-		(property "Reference" "D69"
-			(at 171.45 256.5399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 171.45 259.0799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 173.355 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 168.91 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 168.91 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 168.91 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 168.91 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "25b62d7c-76fa-42df-b7b7-d0af338c631f")
-		)
-		(pin "2"
-			(uuid "4cda9a66-3f53-49f9-8199-bc9647a494df")
-		)
-		(instances
-			(project "FancyBoard"
-				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "D69")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 45.72 165.1 0)
 		(unit 1)
@@ -17575,7 +17524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 45.72 165.1 0)
 			(effects
 				(font
@@ -17731,7 +17680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 78.74 165.1 0)
 			(effects
 				(font
@@ -17783,7 +17732,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98a45647-fb24-4768-abaa-1612e595c6e3")
-		(property "Reference" "SW92"
+		(property "Reference" "SW77"
 			(at 110.49 264.16 0)
 			(effects
 				(font
@@ -17800,7 +17749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 110.49 271.78 0)
 			(effects
 				(font
@@ -17836,7 +17785,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW92")
+					(reference "SW77")
 					(unit 1)
 				)
 			)
@@ -18262,7 +18211,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.5U"
 			(at 166.37 165.1 0)
 			(effects
 				(font
@@ -18467,7 +18416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a20e70b5-fc8a-49d2-8d02-8097e507301e")
-		(property "Reference" "SW84"
+		(property "Reference" "SW69"
 			(at 25.4 264.16 0)
 			(effects
 				(font
@@ -18484,7 +18433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U"
 			(at 25.4 271.78 0)
 			(effects
 				(font
@@ -18520,7 +18469,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW84")
+					(reference "SW69")
 					(unit 1)
 				)
 			)
@@ -18535,7 +18484,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a2b700dc-1139-4ce6-96fe-406c49163a0c")
-		(property "Reference" "SW57"
+		(property "Reference" "SW94"
 			(at 321.31 55.88 0)
 			(effects
 				(font
@@ -18551,7 +18500,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 317.5 65.786 0)
 			(effects
 				(font
@@ -18596,7 +18545,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW57")
+					(reference "SW94")
 					(unit 1)
 				)
 			)
@@ -18629,7 +18578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2U"
 			(at 166.37 189.23 0)
 			(effects
 				(font
@@ -18763,7 +18712,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 132.08 165.1 0)
 			(effects
 				(font
@@ -18898,7 +18847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 143.51 229.87 0)
 			(effects
 				(font
@@ -18968,7 +18917,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 282.9052 31.75 0)
 			(effects
 				(font
@@ -19124,7 +19073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 132.08 189.23 0)
 			(effects
 				(font
@@ -19176,7 +19125,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3b60285-9d13-481f-8aa3-393bebcfaab3")
-		(property "Reference" "SW78"
+		(property "Reference" "SW64"
 			(at 110.49 243.84 0)
 			(effects
 				(font
@@ -19193,7 +19142,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 110.49 251.46 0)
 			(effects
 				(font
@@ -19229,7 +19178,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW78")
+					(reference "SW64")
 					(unit 1)
 				)
 			)
@@ -19262,7 +19211,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 99.06 165.1 0)
 			(effects
 				(font
@@ -19314,7 +19263,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b73ceb7d-fb04-424b-b746-8384434ca497")
-		(property "Reference" "SW82"
+		(property "Reference" "SW68"
 			(at 154.94 243.84 0)
 			(effects
 				(font
@@ -19331,7 +19280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 154.94 251.46 0)
 			(effects
 				(font
@@ -19367,7 +19316,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW82")
+					(reference "SW68")
 					(unit 1)
 				)
 			)
@@ -19383,7 +19332,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8c6586e-d363-47a6-9d62-4a30cd578550")
-		(property "Reference" "SW77"
+		(property "Reference" "SW63"
 			(at 99.06 243.84 0)
 			(effects
 				(font
@@ -19400,7 +19349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 99.06 251.46 0)
 			(effects
 				(font
@@ -19436,7 +19385,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW77")
+					(reference "SW63")
 					(unit 1)
 				)
 			)
@@ -19623,7 +19572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 45.72 229.87 0)
 			(effects
 				(font
@@ -19844,7 +19793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.5U"
 			(at 25.4 165.1 0)
 			(effects
 				(font
@@ -20000,7 +19949,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 121.92 165.1 0)
 			(effects
 				(font
@@ -20156,7 +20105,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 329.692 186.69 90)
 			(effects
 				(font
@@ -20225,7 +20174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.5U"
 			(at 25.4 209.55 0)
 			(effects
 				(font
@@ -20508,75 +20457,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 166.37 251.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c97212ce-9d77-4602-9b0b-c046752714cc")
-		(property "Reference" "SW83"
-			(at 166.37 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 166.37 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 166.37 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 166.37 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 166.37 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c6e8eadd-acd2-425a-8c11-1a23ae75450d")
-		)
-		(pin "2"
-			(uuid "8e085a7c-840b-4c18-aa36-8f5383cd3990")
-		)
-		(instances
-			(project "FancyBoard"
-				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW83")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 237.49 180.34 0)
 		(unit 1)
@@ -20821,7 +20701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 132.08 209.55 0)
 			(effects
 				(font
@@ -20890,7 +20770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 67.31 189.23 0)
 			(effects
 				(font
@@ -20959,7 +20839,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 88.9 189.23 0)
 			(effects
 				(font
@@ -21028,7 +20908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 110.49 209.55 0)
 			(effects
 				(font
@@ -21167,7 +21047,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d085963b-e98e-4be7-ac5b-b1601ded5452")
-		(property "Reference" "SW91"
+		(property "Reference" "SW76"
 			(at 99.06 264.16 0)
 			(effects
 				(font
@@ -21184,7 +21064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 99.06 271.78 0)
 			(effects
 				(font
@@ -21220,7 +21100,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW91")
+					(reference "SW76")
 					(unit 1)
 				)
 			)
@@ -21406,7 +21286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 25.4 189.23 0)
 			(effects
 				(font
@@ -21755,95 +21635,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148W")
-		(at 124.46 278.13 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d5bca266-956c-4af0-9ac3-8b9f4bdc188c")
-		(property "Reference" "D79"
-			(at 127 276.8599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 127 279.3999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 128.905 278.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 124.46 278.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 124.46 278.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 124.46 278.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 124.46 278.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c0887134-3de7-460c-8f46-a517719a1534")
-		)
-		(pin "2"
-			(uuid "769bba21-ba85-4045-bb1d-ccc294896fbf")
-		)
-		(instances
-			(project "FancyBoard"
-				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "D79")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 110.49 189.23 0)
 		(unit 1)
@@ -21870,7 +21661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 110.49 189.23 0)
 			(effects
 				(font
@@ -22374,7 +22165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 45.72 209.55 0)
 			(effects
 				(font
@@ -22445,7 +22236,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 306.3748 177.8 0)
 			(effects
 				(font
@@ -22515,7 +22306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 197.612 30.48 90)
 			(effects
 				(font
@@ -22741,7 +22532,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df9d56db-8199-4b40-a2e6-1532576d0845")
-		(property "Reference" "SW87"
+		(property "Reference" "SW72"
 			(at 55.88 264.16 0)
 			(effects
 				(font
@@ -22758,7 +22549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-6.25U"
 			(at 55.88 271.78 0)
 			(effects
 				(font
@@ -22794,7 +22585,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW87")
+					(reference "SW72")
 					(unit 1)
 				)
 			)
@@ -22825,7 +22616,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "nice!nanov2:nice!nanov2"
 			(at 246.38 38.1 0)
 			(effects
 				(font
@@ -22873,7 +22664,7 @@
 		(pin "24"
 			(uuid "89f04978-dc65-4df6-acc8-67154daf6558")
 		)
-		(pin "32"
+		(pin "21"
 			(uuid "9f47fa7f-578e-45a8-aabb-6d9b6c102562")
 		)
 		(pin "2"
@@ -22891,10 +22682,10 @@
 		(pin "11"
 			(uuid "dcae32c9-116d-43ac-bfe0-487f0b37a3b6")
 		)
-		(pin "31"
+		(pin "17"
 			(uuid "cd3eaec0-83d9-420d-a307-e79ff2fbb027")
 		)
-		(pin "30"
+		(pin "26"
 			(uuid "90a7c583-408d-4d5c-bf8a-946c0245f652")
 		)
 		(pin "22"
@@ -22906,7 +22697,7 @@
 		(pin "13"
 			(uuid "8fe4cd12-6b1c-4230-b568-0106a0bc9990")
 		)
-		(pin "26"
+		(pin "16"
 			(uuid "912fe2a5-4169-4ca8-9e9b-22776a27d110")
 		)
 		(pin "25"
@@ -22921,7 +22712,7 @@
 		(pin "5"
 			(uuid "8820201e-509a-4903-b882-bcb7f6dfda2c")
 		)
-		(pin "33"
+		(pin "15"
 			(uuid "e8a861ee-a03e-4f3d-a60e-941c74de4ced")
 		)
 		(pin "29"
@@ -23323,7 +23114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 55.88 189.23 0)
 			(effects
 				(font
@@ -23392,7 +23183,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 304.292 35.56 90)
 			(effects
 				(font
@@ -23531,7 +23322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eabfd6ee-ce0c-41c2-ad94-643c9da01a39")
-		(property "Reference" "SW74"
+		(property "Reference" "SW60"
 			(at 67.31 243.84 0)
 			(effects
 				(font
@@ -23548,7 +23339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 67.31 251.46 0)
 			(effects
 				(font
@@ -23584,7 +23375,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW74")
+					(reference "SW60")
 					(unit 1)
 				)
 			)
@@ -23673,6 +23464,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "1N4148W"
@@ -23682,6 +23474,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -23739,6 +23532,95 @@
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
 					(reference "D78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148W")
+		(at 124.46 278.13 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f1b71058-67b2-406b-aec5-f98a8ae1ef4c")
+		(property "Reference" "D79"
+			(at 132.08 276.8599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 132.08 279.3999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 128.905 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 124.46 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 124.46 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 124.46 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 124.46 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb6b459c-5317-4ede-8450-9ddb1433d6e9")
+		)
+		(pin "2"
+			(uuid "dec75198-4ebc-4d05-9956-fee49900e29d")
+		)
+		(instances
+			(project "FancyBoard"
+				(path "/5df634be-7204-4854-853b-7c7d64057627"
+					(reference "D79")
 					(unit 1)
 				)
 			)
@@ -23858,7 +23740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 55.88 229.87 0)
 			(effects
 				(font
@@ -23910,7 +23792,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f491e74d-17c6-4179-a0dd-903882534eef")
-		(property "Reference" "SW79"
+		(property "Reference" "SW65"
 			(at 121.92 243.84 0)
 			(effects
 				(font
@@ -23927,7 +23809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 121.92 251.46 0)
 			(effects
 				(font
@@ -23963,7 +23845,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW79")
+					(reference "SW65")
 					(unit 1)
 				)
 			)
@@ -24240,7 +24122,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f651acee-7552-44ce-a229-4872d131eda8")
-		(property "Reference" "SW80"
+		(property "Reference" "SW66"
 			(at 132.08 243.84 0)
 			(effects
 				(font
@@ -24257,7 +24139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 132.08 251.46 0)
 			(effects
 				(font
@@ -24293,7 +24175,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW80")
+					(reference "SW66")
 					(unit 1)
 				)
 			)
@@ -24326,7 +24208,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 121.92 229.87 0)
 			(effects
 				(font
@@ -24465,7 +24347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f913ab07-6170-411b-8e78-0efe102271ca")
-		(property "Reference" "SW76"
+		(property "Reference" "SW62"
 			(at 88.9 243.84 0)
 			(effects
 				(font
@@ -24482,7 +24364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 88.9 251.46 0)
 			(effects
 				(font
@@ -24518,7 +24400,7 @@
 		(instances
 			(project "FancyBoard"
 				(path "/5df634be-7204-4854-853b-7c7d64057627"
-					(reference "SW76")
+					(reference "SW62")
 					(unit 1)
 				)
 			)
@@ -24551,7 +24433,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 304.292 68.58 90)
 			(effects
 				(font
@@ -24707,7 +24589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
 			(at 45.72 189.23 0)
 			(effects
 				(font

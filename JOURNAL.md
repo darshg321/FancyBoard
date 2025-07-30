@@ -73,4 +73,43 @@ finished most of everything, need to add some pull up resistors and capacitors a
 
 done with schematic, pull ups and capacitors
 
-need to make footprints and assignments, so first have to find what keys and keycaps i will use
+need to make footprints and assignments
+
+![8](assets/image8.png)
+
+![9](assets/image9.png)
+
+done with both footprints
+
++3 hours
+
+keycaps: https://www.aliexpress.com/item/1005004840360158.html
+
+deciding on Kailih Choc V2 Low Profile Switches
+
+stabalizers: https://www.aliexpress.com/item/1005001781468636.html
+
+spdt switch: SS12D00
+
+![10](assets/image10.png)
+
+fixed a few symbol and footprint issues, starting pcb
+
+switching to choc v1 because its easier
+https://shop.beekeeb.com/product/kailh-choc-v1-hotswap-socket/
+
+
+![11](assets/image11.png)
+
+fixed the layout, need to route now
+
+![12](assets/image12.png)
+finshed layout fully, routing time
+
++5 hours
+
+## july 30th
+
+![13](assets/image13.png)
+
+almost finished routing, need to route rows/columns and other components
