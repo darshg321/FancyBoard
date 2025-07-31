@@ -116,3 +116,30 @@ almost finished routing, need to route rows/columns and other components
 
 finished routing rows and columns
 ![14](assets/image14.png)
+
+apparently the footprint library had the sockets flipped, so i had to edit the footprint library and then reroute all the keys unfortunately
+
+cooked but oh well
+
+![15](assets/image15.png)
+
++4 hours
+
+![16](assets/image16.png)
+
+completely finished pcb, working on models
+
++2 hours
+
+changed switch, cleaned up some wiring, added 3d models for everything, changed some footprints
+
+pcb fully done !!
+
+![](assets/schematic.png)
+
+![](assets/pcb.png)
+
+![](assets/viewer.png)
+
++2 hours
+

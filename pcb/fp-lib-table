@@ -4,4 +4,5 @@
   (lib (name "ST7789_Module")(type "KiCad")(uri "${KIPRJMOD}/ST7789_Module.pretty")(options "")(descr ""))
   (lib (name "Kailh_PG1353_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/Kailh_PG1353_Hotswap.pretty")(options "")(descr ""))
   (lib (name "SS-12D00")(type "KiCad")(uri "${KIPRJMOD}/SS-12D00.pretty")(options "")(descr ""))
+  (lib (name "MSK-12C02")(type "KiCad")(uri "${KIPRJMOD}/MSK-12C02.pretty")(options "")(descr ""))
 )
