@@ -143,3 +143,43 @@ pcb fully done !!
 
 +2 hours
 
+## july 31st
+
+manually adding keys cause kicad doesnt export stretched components properly (its sooooo slow)
+
+![](assets/image17.png)
+
+also made the bom
+
++3 hours
+
+![](assets/image18.png)
+
+done with pcb cad
+
+![](assets/image19.png)
+
+top plate cad done
+
+![](assets/image20.png)
+
+bottom plate mostly done, need to add usb cutout still
+
+![](assets/image21.png)
+
+working on case
+
+![](assets/image22.png)
+
+cad mostly done need to add some design later
+
++4 hours
+
+firmware:
+
+based it on the bt75_v1 firmware, as its very similar
+
+using https://nickcoutsos.github.io/keymap-editor/, i edited a zmk keymap for the keyboard
+
+![](assets/image23.png)
+
