@@ -9,12 +9,14 @@ FancyBoard is a custom hot-swappable mechanical keyboard inspired by the k.no.b.
 - 1.9" IPS Display
 - 65% layout
 - 2 Dials
-
+![](assets/FancyBoard_Render.png)
 ![](assets/schematic.png)
-![](assets/pcb.png)
-![](assets/viewer.png.png)
-![](assets/cad.png)
 
+
+![](assets/pcb.png)
+
+
+![](assets/viewer.png.png)
 i made this keyboard because i saw the KNOB keyboard on reels, and thought it was probably the nicest looking keyboard ive seen, but unfortunately its like 400usd, way too expensive
 
 i wanted to learn how to make a full keyboard after hackpad anyways, so i designed this. i also want a bluetooth keyboard because my current keyboard has a cable thats very annoying, and i wanted to replace it.
