@@ -3,7 +3,7 @@
 FancyBoard is a custom hot-swappable mechanical keyboard inspired by the k.no.b.1 from Work Louder.
 
 - Hot Swappable
-- ZMK Firmware
+- BlueMicro Firmware
 - Low Profile
 - Bluetooth & USB-C
 - 1.9" IPS Display
