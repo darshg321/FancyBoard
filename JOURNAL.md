@@ -183,3 +183,15 @@ using https://nickcoutsos.github.io/keymap-editor/, i edited a zmk keymap for th
 
 ![](assets/image23.png)
 
+after some chatgpt consulting and perusing the docs, zmk is actually really complicated and lowkey a little gibberish, so im gonna switch over to bluemicron firmware, which also supports the nicenanov2 and has bluetooth, but uses arduino c instead of the mess zmk has
+
+learning bluemicro: copied over repo and made my project, starting on config
+
+![](assets/image24.png)
+
+finished code, mostly default but it should work
+
+changed a bunch of BOM stuff to make pricing work
+
++2 hours
+
