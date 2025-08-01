@@ -1,4 +1,5 @@
 # FancyBoard
+## time spent: 33 hours
 ## july 28th
 
 speedrunning a keyboard before the 31st, just because
@@ -195,3 +196,10 @@ changed a bunch of BOM stuff to make pricing work
 
 +2 hours
 
+added cad designs
+![](assets/image25.png)
+![](assets/image26.png)
+
+done !!
+
+![](assets/cad.png)
