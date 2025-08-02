@@ -1,5 +1,5 @@
 # FancyBoard
-## time spent: 33 hours
+## time spent: 35 hours
 ## july 28th
 
 speedrunning a keyboard before the 31st, just because
@@ -203,3 +203,11 @@ added cad designs
 done !!
 
 ![](assets/cad.png)
+
+added render, filleted corners, assigned appearance to everything
+
+![](assets/image27.png)
+
+added holes w fillet
+
++2 hours
