@@ -1,5 +1,11 @@
-# FancyBoard
-## time spent: 35 hours
+---
+title: "FancyBoard"
+author: "Darsh Gupta"
+description: "A custom, low-profile, hot-swappable mechanical keyboard."
+created_at: "2025-07-28"
+---
+
+## time spent: 36 hours
 ## july 28th
 
 speedrunning a keyboard before the 31st, just because
@@ -211,3 +217,13 @@ added render, filleted corners, assigned appearance to everything
 added holes w fillet
 
 +2 hours
+
+![](assets/image28.png)
+changing design
+
+![](assets/image29.png)
+
+![](assets/image30.png)
+finished editing plate
+
++1 hour
