@@ -41,7 +41,9 @@ i wanted to learn how to make a full keyboard after hackpad anyways, so i design
 |                      |Kalih Choc Hot Swap Sockets|                                                             |78 |https://www.aliexpress.com/item/1005006625852715.html|9.73       |
 |                      |1s LiPo 500mAh Battery     |                                                             |1  |https://www.aliexpress.com/item/1005007016796736.html|9.15       |
 |                      |PCB                        |                                                             |   |https://jlcpcb.com                                   |19         |
-|Subtotal              |                           |                                                             |   |                                                     |120.64     |
-|AliExpress Shipping   |                           |                                                             |   |                                                     |9.28       |
+|                      |M2 18mm Screw              |                                                             |   |https://www.aliexpress.com/item/1005007264845313.html|1.89       |
+|Subtotal              |                           |                                                             |   |                                                     |122.53     |
+|AliExpress Shipping   |                           |                                                             |   |                                                     |14.45      |
 |JLCPCB Shipping       |                           |                                                             |   |                                                     |13.14      |
-|Total                 |                           |                                                             |   |                                                     |143.06     |
+|Total                 |                           |                                                             |   |                                                     |150.12     |
+

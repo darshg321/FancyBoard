@@ -227,3 +227,6 @@ changing design
 finished editing plate
 
 +1 hour
+
+![](assets/image31.png)
+added mounting holes, m2 screws (hole is 18mm down)
